@@ -1,23 +1,23 @@
 [
 	{
-		"dates": "June 2018 · Present",
-		"role": "Front-end Engineer",
-		"company": "Full Truck Alliance",
-		"description": "Responsible for customer service and CRM system front-end development.",
+		"dates": "March 2023 · Present",
+		"role": "software developer",
+		"company": "ADAPTIVE MEDIA",
+		"description": "Developed and maintained front-end components for customer service and CRM systems. Utilized [specific technologies, e.g., React, Angular, Vue] to create user-friendly interfaces and enhance user experience.",
 		"logo": "/assets/images/experiences/fta.ico"
 	},
 	{
-		"dates": "July 2015 · June 2018",
-		"role": "Front-end Engineer",
-		"company": "YOHO!",
-		"description": "Responsible for mobile front-end development of e-commerce platform.",
+		"dates": "May 2022 · Mar 2023",
+		"role": "Quality Controller",
+		"company": "Springbord Pvt Ltd",
+		"description": "Ensured the quality and performance of the e-commerce mobile app. Performed thorough testing, identified and resolved bugs, and collaborated with development teams to improve the overall user experience.",
 		"logo": "/assets/images/experiences/yoho.ico"
 	},
 	{
-		"dates": "September 2014 · July 2015 ",
-		"role": "Node.JS Developer",
-		"company": "WuLian",
-		"description": "Intern, involved in the development of Internet of Things cloud systems.",
+		"dates": "Jan 2021 · Mar 2022 ",
+		"role": "MIS Executive",
+		"company": "Aadhi Cars Pvt Ltd",
+		"description": "Gained hands-on experience in IoT cloud systems development. Contributed to the design, implementation, and testing of IoT applications, including data collection, processing, and visualization.",
 		"logo": "/assets/images/experiences/wulian.ico"
 	}
 ]
